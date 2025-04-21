@@ -15,3 +15,5 @@ This project covers a variety of topics in data analytics, including:
 -Cryptocurrency Data Analytics – Analyzing price movements, market trends, and investment insights.
 
 -Final Project – Develop a mini-project.
+
+[Mini_Project_Instructions.pdf](https://github.com/user-attachments/files/19832014/Mini_Project_Instructions.pdf)
